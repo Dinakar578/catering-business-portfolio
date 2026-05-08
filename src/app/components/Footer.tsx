@@ -55,11 +55,11 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-2 text-sm">
                 <Phone className="w-4 h-4 text-primary mt-0.5 flex-shrink-0" />
-                <span className="text-gray-400">+1 (555) 123-4567</span>
+                <span className="text-gray-400">+91 9944466517</span>
               </li>
               <li className="flex items-start gap-2 text-sm">
                 <Mail className="w-4 h-4 text-primary mt-0.5 flex-shrink-0" />
-                <span className="text-gray-400">info@farsanacatering.com</span>
+                <span className="text-gray-400">farsanacatering012@gmail.com</span>
               </li>
               <li className="flex items-start gap-2 text-sm">
                 <MapPin className="w-4 h-4 text-primary mt-0.5 flex-shrink-0" />
